@@ -1,6 +1,6 @@
 {
   "name": "jest-preset-sk-react",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "jest-preset.json",
   "scripts": {
