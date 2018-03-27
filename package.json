@@ -1,0 +1,13 @@
+{
+  "name": "jest-presets",
+  "repository": "git@github.com:soenkekluth/jest-presets.git",
+  "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com/)",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^2.9.0"
+  }
+}

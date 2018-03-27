@@ -1,0 +1,12 @@
+{
+  "name": "jest-preset-sk-react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "jest-preset.json",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [],
+  "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com)",
+  "license": "MIT"
+}
