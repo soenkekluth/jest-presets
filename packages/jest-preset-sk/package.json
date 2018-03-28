@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com)",
+  "repository": "git@github.com:soenkekluth/jest-presets.git",
   "license": "MIT"
 }
