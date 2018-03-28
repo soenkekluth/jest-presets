@@ -1,5 +1,5 @@
 {
-  "testPathIgnorePatterns": ["/node_modules/", ".history", ".yalc", "/*.*/", "/coverage/"],
+  "testPathIgnorePatterns": ["/node_modules/", ".history", ".yalc", "/^..w+/", "/coverage/"],
   "cacheDirectory": "./.cache",
   "testEnvironment": "node",
   "coveragePathIgnorePatterns": ["coverage"],
