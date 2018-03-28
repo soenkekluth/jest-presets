@@ -1,6 +1,6 @@
 {
   "preset": "react-native",
-  "testPathIgnorePatterns": ["/node_modules/", ".history", ".yalc", "**/.*/", "/coverage/"],
+  "testPathIgnorePatterns": ["/node_modules/", ".history", ".yalc", "/*.*/", "/coverage/"],
   "cacheDirectory": "./.cache",
   "coveragePathIgnorePatterns": ["coverage"],
   "coverageThreshold": {
