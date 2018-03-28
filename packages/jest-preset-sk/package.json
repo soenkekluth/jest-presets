@@ -1,6 +1,6 @@
 {
   "name": "jest-preset-sk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "jest-preset.json",
   "scripts": {
