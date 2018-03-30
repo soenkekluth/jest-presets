@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com)",
   "repository": "git@github.com:soenkekluth/jest-presets.git",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/jest-presets/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/jest-presets#readme",
   "license": "MIT"
 }

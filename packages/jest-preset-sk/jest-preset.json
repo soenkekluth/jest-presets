@@ -1,6 +1,5 @@
 {
-  "testPathIgnorePatterns": ["/node_modules/", ".history", ".yalc", "/^..w+/", "/coverage/"],
-  "cacheDirectory": "./.cache",
+  "testPathIgnorePatterns": ["/node_modules/", "<rootDir>/\\..*/\\w+/", "/fixtures/", "/coverage/"],
   "testEnvironment": "node",
   "coveragePathIgnorePatterns": ["coverage"],
   "coverageThreshold": {
@@ -13,6 +12,7 @@
   },
   "collectCoverageFrom": [
     "**/*.{js,jsx}",
+    "!<rootDir>/\\..*/\\w+/",
     "!**/.yalc/**",
     "!**/.*/**",
     "!**/node_modules/**",
