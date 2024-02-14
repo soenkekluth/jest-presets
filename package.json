@@ -32,7 +32,7 @@
     "projects": ["packages/*"]
   },
   "devDependencies": {
-    "husky": "0.14.3",
+    "husky": "9.0.11",
     "lint-staged": "7.0.0",
     "lerna": "2.9.1",
     "yalc": "1.0.0-pre.19",
